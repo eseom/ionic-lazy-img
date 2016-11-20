@@ -1,7 +1,7 @@
 {
   "name": "ionic-lazy-img",
   "main": "lib/ionic-lazy-img.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "authors": [
     "EunseokEom <me@eseom.org>"
   ],
