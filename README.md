@@ -20,12 +20,15 @@ npm install ionic-lazy-img --save
 ```
 
 ```css
-.image-hide {
+.lazy-img-hide {
   opacity: 0;
   transition: opacity 0.5s linear;
 }
-.image-show {
+.lazy-img-show {
   opacity: 1;
+}
+.lazy-img-background {
+  background: #f8f8f8;
 }
 ```
 
