@@ -9,6 +9,10 @@ preparing
 
 ```sh
 bower install ionic-lazy-img --save
+
+or
+
+npm install ionic-lazy-img --save
 ```
 
 ```html

@@ -1,10 +1,14 @@
 {
   "name": "ionic-lazy-img",
   "main": "lib/ionic-lazy-img.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "EunseokEom <me@eseom.org>"
   ],
+  "repository": {
+  "type": "git",
+    "url": "git+https://github.com/eseom/ionic-lazy-img.git"
+  },
   "description": "Ionic directive which loads or unloads images.",
   "scripts": {},
   "license": "MIT",
